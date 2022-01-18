@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "cedula": "1111111111",
+        "nombre": "Jhon Moreira",
+        "direccion": "Salinas",
+        "telefono": "095479641",
+        "correo": "JhonM@hotmail.com"
+    },
+    {
+        "id": 2,
+        "cedula": "1310000002",
+        "nombre": "Kevin Intriago",
+        "direccion": "Manta",
+        "telefono": "0900000002",
+        "correo": "KIntriago@hotmail.com"
+    },
+    {
+        "id": 3,
+        "cedula": "1310000003",
+        "nombre": "Alejandro Fernandez",
+        "direccion": "Manta",
+        "telefono": "0900000003",
+        "correo": "AFernandez@hotmail.com"
+    },
+    {
+        "id": 4,
+        "cedula": "1310000004",
+        "nombre": "Angelo Cedeño",
+        "direccion": "Manta",
+        "telefono": "0900000004",
+        "correo": "ACedeño@hotmail.com"
+    },
+    {
+        "id": 5,
+        "cedula": "1310000005",
+        "nombre": " Mario Zambrano",
+        "direccion": "Manta",
+        "telefono": "0900000005",
+        "correo": "MZambrano@hotmail.com"
+    },
+    {
+        "id": 6,
+        "cedula": "1310000006",
+        "nombre": "Jordy Zambrano",
+        "direccion": "Manta ",
+        "telefono": "0900000006",
+        "correo": "JZambrano@hotmail.com"
+    },
+    {
+        "id": 7,
+        "cedula": "1310000007",
+        "nombre": "Maholy Moreira",
+        "direccion": "Manta",
+        "telefono": "0900000007",
+        "correo": "MMoreira@hotmail.com"
+    },
+    {
+        "id": 8,
+        "cedula": "1310000008",
+        "nombre": "Luis Valdez",
+        "direccion": "Manta ",
+        "telefono": "0900000008",
+        "correo":"LValdez@hotmail.com"
+    },
+    {
+        "id": 9,
+        "cedula": "1310000009",
+        "nombre": "Jenny Quiroz",
+        "direccion": "Manta",
+        "telefono": "0900000009",
+        "correo": "JQuiroz@hotmail.com"
+    },
+    {
+        "id": 10,
+        "cedula": "1310000010",
+        "nombre": "Daniel Cantos",
+        "direccion": "Manta",
+        "telefono": "0900000010",
+        "correo": "DCantos@hotmail.com"
+    }
+]

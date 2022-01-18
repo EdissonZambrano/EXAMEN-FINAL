@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuario id="1">
+    <cedula>1310000001</cedula>
+    <nombre>Juan Moreira</nombre>
+    <direccion> Manta</direccion>
+    <telefono>0900000001</telefono>
+    <correo> JMoreira@hotmail.com</correo>
+</usuario>
+<usuario id="2">
+    <cedula>1310000002</cedula>
+    <nombre>Kevin Intriago</nombre>
+    <direccion> Manta</direccion>
+    <telefono>0900000002</telefono>
+    <correo>KIntriago@hotmail.com</correo>
+</usuario>
+<usuario id="3">
+    <cedula>1310000003</cedula>
+    <nombre>Alejandro Fernandez </nombre>
+    <direccion> Manta </direccion>
+    <telefono>0900000003</telefono>
+    <correo>AFernandez@hotmail.com</correo>
+</usuario>
+<usuario id="4">
+    <cedula>1310000004</cedula>
+    <nombre>Angelo Cedeño</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000004</telefono>
+    <correo>ACedeño@hotmail.com</correo>
+</usuario>
+<usuario id="5">
+    <cedula>1310000005</cedula>
+    <nombre>Mario Zambrano</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000005</telefono>
+    <correo>MZambrano@hotmail.com</correo>
+</usuario>
+<usuario id="6">
+    <cedula>1310000006</cedula>
+    <nombre>Jordy Zambrano</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000006</telefono>
+    <correo>JZambrano@hotmail.com</correo>
+</usuario>
+<usuario id="7">
+    <cedula>1310000007</cedula>
+    <nombre>Maholy Moreira</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000007</telefono>
+    <correo>MMoreira@hotmail.com</correo>
+</usuario>
+<usuario id="8">
+    <cedula>1310000008</cedula>
+    <nombre>Luis Valdez</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000008</telefono>
+    <correo>LValdez@hotmail.com</correo>
+</usuario>
+<usuario id="9">
+    <cedula>1310000009</cedula>
+    <nombre>Jenny Quiroz</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000009</telefono>
+    <correo>JQuiroz@hotmail.com</correo>
+</usuario>
+<usuario id="10">
+    <cedula>1310000010</cedula>
+    <nombre>Daniel Cantos</nombre>
+    <direccion>Manta</direccion>
+    <telefono>0900000010</telefono>
+    <correo>DCantos@hotmail.com</correo>
+</usuario>
+</xml>
